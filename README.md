@@ -14,13 +14,13 @@ To Simulate R2R-Ladder DAC using Op-amp
 •	Click on the run option ->click advanced open ->select Ac analysis->enter the amplitude time delay stop time value.
 •	Click on the run option ->simulation window opens->place the probe ->output graph is obtained.
  
+**CIRCUIT DIAGRAM**
 
-  **CIRCUIT DIAGRAM**
+<img width="788" height="368" alt="Screenshot 2026-09-14 201218" src="https://github.com/user-attachments/assets/3f79e9a8-6eb7-42a5-9dd7-d6c8fa22e8cb" />
 
+**Output waveform**
 
-  **Output waveform**
-
-
+<img width="802" height="282" alt="image" src="https://github.com/user-attachments/assets/332a02cc-51ec-45d8-87e1-0c17aa93dda4" />
 
 **RESULT:**
 Thus a  Simulation of  R2R-Ladder DAC using Op-amp IC 741 was done.
